@@ -26,6 +26,7 @@ public class BindingException extends PersistenceException {
 
   public BindingException() {
     super();
+    
   }
 
   public BindingException(String message) {
